@@ -4,8 +4,8 @@
 def key_for_min_value(name_hash)
 lowest =""
 name_hash.collect do |item, value|
- if value ##is the lowest##
-item = lowest
+value 
+
 end
-lowest
+
 end
